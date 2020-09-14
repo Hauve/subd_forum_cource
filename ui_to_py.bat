@@ -1,0 +1,1 @@
+pyside2-uic "ui\authwindow.ui" -o "auth_ui.py" & pyside2-uic "ui\regwindow.ui" -o "reg_ui.py" & pyside2-uic "ui\mainWidget.ui" -o "mainwidget_ui.py" & pyside2-uic "ui\search.ui" -o "search_ui.py" & pyside2-uic "ui\createTopic.ui" -o "newtopic_ui.py" & pyside2-uic "ui\createforum.ui" -o "newforum_ui.py"

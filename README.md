@@ -9,3 +9,4 @@
 <code>
   pip install mysql-connector-python
 </code>
+<p>Для запуска данной программы, после установки всех библиотек, нужно запустить main.py</p>
